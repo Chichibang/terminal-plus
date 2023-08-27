@@ -1,2 +1,2 @@
 # terminal-plus
-Terminal+ for Python3
+Terminal for Python3 on Debian
