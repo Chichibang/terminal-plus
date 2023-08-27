@@ -18,4 +18,3 @@ while True:
         os.system("sudo ", cmdexec)
     else:
         os.system(cmdexec)
-    
